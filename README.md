@@ -357,6 +357,7 @@ There are plenty of ideas to improve KPR, feel free to explore them:
 
 ## Other works
 Please have a look at our other works on re-identification and sport video analysis:
+- [CAMELTrack: Context-Aware Multi-cue ExpLoitation for Online Multi-Object Tracking](https://github.com/TrackingLaboratory/CAMELTrack)
 - [BPBreID: Body Part-based Re-Identification](https://github.com/VlSomers/bpbreid)
 - [SoccerNet End-to-End Athlete Tracking and Identification on a Minimap](https://github.com/SoccerNet/sn-gamestate)
 - [PRTreID: Joint Learning for Re-identification, Team Affiliation, and Role Classification](https://github.com/VlSomers/prtreid)
